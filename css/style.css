@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: hsla(339,46%,93%,1.00);
+}
+	
+.wrapper{
+	width: 800px;
+	height:1200px;
+	background: white;
+	margin:0 auto;
+	padding: 10px;
+	border: 5px solid hsla(339,73%,81%,1.00);
+}
+.header img{
+	width: 250px;
+	height: 250px;
+	margin-left: 100px;
+}
+.header{
+	width: 800px;
+	height: 250px;
+	background: hsla(339,46%,93%,1.00);
+}
+.logo{
+	width: 300px;
+	height: 250px;
+	float: right;
+}
+.logo h1{
+	width: 500px;
+	height:500px;
+	margin-top: 100px;
+	margin-left: 100px;
+}
+.nav{
+	width: 800px;
+	height: 100px;
+	background: hsla(45,95%,78%,1.00);
+	margin-top: 10px;
+	 }
+.nav h2{
+	text-align: center;
+	margin-top: 25px;
+	}
+.jungkook img{
+	width: 200px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 40px;
+	float: left;
+}
+.jk img{
+	width: 100px;
+	height: 100px;
+	margin-top: 100px;
+	margin-left: 100px;
+	float: left;
+	}
+.nochu img {
+	width: 200px;
+	height:200px;
+	margin-top: 20px;
+}
+.bts {
+	widh: 800px;
+	height: 200px;
+	background: hsla(339,46%,93%,1.00);
+	margin-top: 80px;
+}
+.bts img {
+	width:200px;
+	height: 200px;
+	margin-right: 300px;
+	float: right;
+}
+.ken{
+	width: 800px;
+	height: 100px;
+	background: hsla(45,95%,78%,1.00);
+	margin-top: 30px;
+}
+.ken h3{
+	text-align: center;
+	margin-top: 50px;
+}
+.taehyung{
+	width: 800px;
+	height: 100px;
+	background: hsla(339,46%,93%,1.00);
+}
+.taehyung h4{
+	text-align: center;
+	margin-top: 50px;
+	}
